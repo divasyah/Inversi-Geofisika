@@ -1,0 +1,11 @@
+# Perbedaan fungsi linier dan non linier terhadap parameter model
+
+Jika kita memiliki fungsi berikut, manakah yang termasuk fungsi linier dan non linier jika a, b, atau c adalah parameter model ?
+
+\begin{enumerate}
+$f(x) = a+bx$
+$f(x) = a + bx + cx^2$
+$f(x) = \sqrt{ax}$
+$f(x) = log(cx)$
+$f(x,y) = ax^2 + bxy + c^2y$
+\end{enumerate}
